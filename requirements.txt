@@ -1,0 +1,3 @@
+nose
+sphinx
+# no other pip-install requirements; we will solve without leveraging external libraries.

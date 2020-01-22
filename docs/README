@@ -1,0 +1,9 @@
+Documentation for the "Trains" project is automated using Sphinx.
+
+It has been installed and password protected at http://octalfutures.com/trains .
+
+Please ask Frank Carnovale (frank.carnovale@gmail.com) for the password.
+
+In order to create a simple small software release package,
+the entire docs build area has been removed temporarily from this directory.
+

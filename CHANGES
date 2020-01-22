@@ -1,0 +1,286 @@
+commit 587116cc45bd561828833c9e50cbff3a46b51c72
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Sat Apr 9 01:43:55 2016 +0100
+
+    trip pylintrc; lint-up tests a tiny bit
+
+commit 6dda2bed18b7b8838e8796eece01582076a48502
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Sat Apr 9 01:20:46 2016 +0100
+
+    lots of pylint fixes
+
+commit 1423dd50551f0cd793663daf278ef5a547f27b0d
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 16:45:04 2016 +0100
+
+    add CHANGES
+
+commit 468c6146ab031c8c756da79d20b365ea166e4377
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 16:23:53 2016 +0100
+
+    typo
+
+commit 67dd4f7f0eff7f4623f8d6e4340f0b64ee1f4599
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 16:13:47 2016 +0100
+
+    document some function params
+
+commit fc8fec679b5822aeb4c32e62dc03dce4290e8a76
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 15:53:34 2016 +0100
+
+    more docstrings
+
+commit 0ede6e9743788e254e7542e8d062768c500a6deb
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 15:26:05 2016 +0100
+
+    more README
+
+commit 8ca11406f8b99c8e50119af29c9c217fa11e5445
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 15:07:29 2016 +0100
+
+    more docstrings in test suite
+
+commit ebe8a6b101c0d629c361ac5b53b4d080c455b7c1
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 14:24:12 2016 +0100
+
+    lots of README words
+
+commit d152205e833d9f6b8b7928ed3303ee93c579572d
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 13:49:12 2016 +0100
+
+    add global exception handler to main program
+
+commit dba42a8f209cc7e6fc9aa531a5036bc5c935cfd5
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 13:35:55 2016 +0100
+
+    add README link to generated doc
+
+commit 8a4291c4bc561032444be724d82ed9e7a248fbde
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 13:16:54 2016 +0100
+
+    Sphinx auto-generated documentation
+
+commit d412f8ac2b12e4fa4d21be0eba7377f50827095b
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 02:53:48 2016 +0100
+
+    add some docsstrings
+
+commit d425b420b25d7019f11bc217e494762c4ec61cac
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 02:07:44 2016 +0100
+
+    update interactive help
+
+commit 4c2d436d37bf7d5720120f60f13f7dfad6de796f
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 01:26:52 2016 +0100
+
+    unit-tests now verify all planned functionality
+
+commit 4674d7de687c3ab5a74f94a44b8c307284da6bed
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Fri Apr 8 00:47:45 2016 +0100
+
+    copy all demo query invocations into main program
+
+commit d946bb65f164b6b2ec0e7bfd7d7eea33a4362256
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 23:16:15 2016 +0100
+
+    Allow Cyclic Journeys!
+
+commit 4893eb6692d382c51c4a3cfd4aa7964b1c86f1e2
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 22:32:51 2016 +0100
+
+    tidying and refactoring of queries
+
+commit 6b99ad392897a389cfacc9b7d3516806a0ae01e2
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 21:23:53 2016 +0100
+
+    variable naming: use _ not camelcase for scoped vars
+
+commit f225b38d4952e5d7a5799d436d9693b0566d8c52
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 20:15:24 2016 +0100
+
+    stubs for all query types
+
+commit 1647a722a8f56abd25dec2a2178d6e3c35e80a3d
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 17:49:48 2016 +0100
+
+    fix revisit-via-alternate-route bug
+
+commit 3a2ac9c96374380b20122c63d25b85e0895aea3b
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 16:37:43 2016 +0100
+
+    core route discovery algorithm implemented
+
+commit 451969c6fc3d852996ae585e716c76f25d186b90
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 13:54:27 2016 +0100
+
+    add test for route that doesn't go anywhere
+
+commit 0d62c6a3ac2df386a12a8ce648557e160814fc38
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 13:42:59 2016 +0100
+
+    add quick-script test; add stub for generate_routes
+
+commit 704c61eace2fb6c76a6cd5a03902a47f7ddc6914
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 02:47:44 2016 +0100
+
+    add network-dump facility
+
+commit 4d9652edbee337a1326ef4c44ae9a9dda26719ba
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 02:15:42 2016 +0100
+
+    starting to implement valid data structure
+
+commit 1bb30839b7f5efc32b55f132c2423a8a21dd3207
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 02:14:16 2016 +0100
+
+    add invocation instructions to README
+
+commit 0581d4743f5aa30e13c7ddeddd7ca86910b91958
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 02:13:52 2016 +0100
+
+    add 3rd test data file; testing repeat routes
+
+commit 609e71251a122bc0345471d4a980b8c535c330f4
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 00:56:57 2016 +0100
+
+    start to add some OO structure to core
+
+commit dc7af082bcf154c599440412e2278a5de6ad60a3
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Thu Apr 7 00:53:22 2016 +0100
+
+    add a much meaner, error-laden input data file
+
+commit 993e4309ac71e8192f75708049188b26ab97e6a7
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 21:54:44 2016 +0100
+
+    update main pgm to accept network object and report towns/routes counts
+
+commit 016cf18e6b3b656f516342e444170d8c77e684b8
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 21:35:09 2016 +0100
+
+    introduce "Network" class with stubs for routes/towns funcs; enhance main program to load cmdline files
+
+commit fec0bbafb59c4b54ecf4dc2c5bd57b7cb1914e89
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 19:48:32 2016 +0100
+
+    graph test data; graph loader tester stub; graph loader stub; more interactive mode
+
+commit cb6b2fa000424612670b23297fc40484922db148
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 19:02:51 2016 +0100
+
+    remove "helpers.py"
+
+commit 65c2273ac5d20a4ff63e79a471953e6ce336b83f
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 18:56:43 2016 +0100
+
+    Adjust package-level __main__ and __init__ to support interactive import, programmatic import, and stand-alone run.
+    
+    Usage notes:
+    - Interactive Mode:  python, then 'import trains', and receive a nice Welcome prompt.
+    - Programmatic Mode:  import 'trains' and use it, e.g. as in test script
+    - Stand-Alone: from commandline, just "python trains"
+
+commit 4ae98010a71775240b1d4c5dd1d422c1bad7c17e
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 16:46:33 2016 +0100
+
+    Empty commit; saving usage notes on how to run the initial 'dummy' tests:
+    
+    [frankc@v6 thworks]$ python -m tests.test_basic
+    .
+    ----------------------------------------------------------------------
+    Ran 1 test in 0.000s
+    
+    OK
+    [frankc@v6 thworks]$ python -m tests.test_advanced
+    hmmm...
+    .
+    ----------------------------------------------------------------------
+    Ran 1 test in 0.000s
+    
+    OK
+    [frankc@v6 thworks]$ gs
+    nothing to commit, working directory clean
+    [frankc@v6 thworks]$ python -m unittest  discover
+    hmmm...
+    ..
+    ----------------------------------------------------------------------
+    Ran 2 tests in 0.000s
+    
+    OK
+    [frankc@v6 thworks]$ python -m tests.test_advanced
+    hmmm...
+    .
+    ----------------------------------------------------------------------
+    Ran 1 test in 0.000s
+    
+    OK
+
+commit 816503025651800fe14c05e7bf3dd02f5460557d
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 14:59:01 2016 +0100
+
+    remove doc-build files from source control
+
+commit 2b282e6493dfc9ea4be7a136ebc0b4a35402c7dc
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 14:47:25 2016 +0100
+
+    get dummy unittests runnable; add stock .gitignore for Python projects
+    
+    .. .gitignore taken from https://github.com/github/gitignore/blob/master/Python.gitignore
+
+commit 2960c53d4c622f87390017e121023ea5419d43d5
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 14:09:04 2016 +0100
+
+    configure documentation subsystem using sphinx-quickstart
+    
+    .. and generate first examples of auto-generated documentation.  Nice
+
+commit 18cf7aeee7a7c31c224f5714b2331627da85189d
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 14:06:43 2016 +0100
+
+    configure project infrastructure files
+
+commit d93b52381003b1b0f326b91b6c28b4146dcb4d85
+Author: Frank Carnovale <frank.carnovale@gmail.com>
+Date:   Wed Apr 6 13:16:30 2016 +0100
+
+    Begin "Trains" Project
+    
+    .. with sample Python project structure cloned from https://github.com/kennethreitz/samplemod.

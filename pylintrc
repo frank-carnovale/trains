@@ -1,0 +1,6 @@
+
+[MESSAGES CONTROL]
+
+#       too-few-public-methods, old-style-class, too-many-arguments
+disable=R0903,C1001,R0913
+
